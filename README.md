@@ -2,7 +2,7 @@
 
 #### I'm Front End at Liferay
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=GLSL,ASTRO,RUST,GO,python,shell,assembly&langs_count=4&layout=compact&bg_color=10,ff1b6b,45caff&title_color=fff&text_color=fff&text_bold=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=GLSL,ASTRO,RUST,GO,python,shell,assembly&langs_count=4&layout=compact&bg_color=10,f99aee,279bc2&title_color=fff&text_color=fff&text_bold=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block">
 
