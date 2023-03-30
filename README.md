@@ -2,8 +2,8 @@
 
 #### I'm Front End at Liferay
 <div style="display: inline_block">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alinedoleron&hide=stars&&bg_color=10,f470f0,279bc2&title_color=fff&text_color=fff&text_bold=true">
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinedoleron&layout=compact&bg_color=10,f470f0,279bc2&title_color=fff&text_color=fff&text_bold=true">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alinedoleron&hide=stars&theme=cobalt&text_bold=true&show_icons=true">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinedoleron&theme=cobalt&layout=compact&text_bold=true">
 </div>
 
 ##
